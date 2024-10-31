@@ -1,0 +1,17 @@
+[
+  {
+    "title": "ImobSeguros App",
+    "description": "Desenvolvimento de um aplicativo que integra o Bitrix24 com um hub interno.",
+    "technologies": "React, Node.js, API REST, Bitrix24"
+  },
+  {
+    "title": "Aplicação de Gestão Escolar (Em Desenvolvimento)",
+    "description": "Criação de uma aplicação para gerenciar matrículas, faltas e notas dos alunos.",
+    "technologies": "Bubble, N8N"
+  },
+  {
+    "title": "Portfólio Pessoal",
+    "description": "Este portfólio, desenvolvido para apresentar minhas habilidades e projetos.",
+    "technologies": "React, CSS, JavaScript"
+  }
+]
